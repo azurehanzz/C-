@@ -1,0 +1,31 @@
+﻿  01.cpp
+C:\D original\study folder\C_plusplus\No.1基础\Stack\priority_queue.h(41,19): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“01.cpp”)
+  C:\D original\study folder\C_plusplus\No.1基础\Stack\priority_queue.h(41,19):
+  模板实例化上下文(最早的实例化上下文)为
+  	C:\D original\study folder\C_plusplus\No.1基础\Stack\01.cpp(115,22):
+  	查看对正在编译的 类 模板 实例化“priority_queue<int,std::vector<T,std::allocator<T>>,Greater<T>>”的引用
+          with
+          [
+              T=int
+          ]
+  	C:\D original\study folder\C_plusplus\No.1基础\Stack\priority_queue.h(40,6):
+  	在编译 类 模板 成员函数“int priority_queue<int,std::vector<T,std::allocator<T>>,Greater<T>>::size(void)”时
+          with
+          [
+              T=int
+          ]
+  		C:\D original\study folder\C_plusplus\No.1基础\Stack\priority_queue.h(33,7):
+  		请参阅 "priority_queue<int,std::vector<T,std::allocator<T>>,Greater<T>>::pop" 中对 "priority_queue<int,std::vector<T,std::allocator<T>>,Greater<T>>::size" 的第一个引用
+          with
+          [
+              T=int
+          ]
+  		C:\D original\study folder\C_plusplus\No.1基础\Stack\01.cpp(125,9):
+  		请参阅 "test_priority_queue" 中对 "priority_queue<int,std::vector<T,std::allocator<T>>,Greater<T>>::pop" 的第一个引用
+          with
+          [
+              T=int
+          ]
+  
+  Stack.vcxproj -> C:\D original\study folder\C_plusplus\No.1基础\Stack\x64\Debug\Stack_priorityqueue.exe
