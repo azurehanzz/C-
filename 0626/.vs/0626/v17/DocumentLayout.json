@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\D original\\study folder\\C_plusplus\\No.1\u57FA\u7840\\0626\\",
+  "WorkspaceRootPath": "C:\\D original\\study folder\\C_plusplus\\C-\\0626\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D2397B0-B2BF-4F46-AA2E-3FCC83A31E86}|0626.vcxproj|C:\\D original\\study folder\\C_plusplus\\No.1\u57FA\u7840\\0626\\leecode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2D2397B0-B2BF-4F46-AA2E-3FCC83A31E86}|0626.vcxproj|C:\\D original\\study folder\\C_plusplus\\C-\\0626\\leecode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2D2397B0-B2BF-4F46-AA2E-3FCC83A31E86}|0626.vcxproj|solutionrelative:leecode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "leecode.cpp",
-              "DocumentMoniker": "C:\\D original\\study folder\\C_plusplus\\No.1\u57FA\u7840\\0626\\leecode.cpp",
+              "DocumentMoniker": "C:\\D original\\study folder\\C_plusplus\\C-\\0626\\leecode.cpp",
               "RelativeDocumentMoniker": "leecode.cpp",
-              "ToolTip": "C:\\D original\\study folder\\C_plusplus\\No.1\u57FA\u7840\\0626\\leecode.cpp",
+              "ToolTip": "C:\\D original\\study folder\\C_plusplus\\C-\\0626\\leecode.cpp",
               "RelativeToolTip": "leecode.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAfAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-26T04:48:02.101Z",
               "EditorCaption": ""
