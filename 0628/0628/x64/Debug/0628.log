@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\D original\study folder\C_plusplus\No.1基础\0628\test.cpp(97,1): warning C4715: “Solution::lowestCommonAncestor”: 不是所有的控件路径都返回值
+  0628.vcxproj -> C:\D original\study folder\C_plusplus\No.1基础\0628\x64\Debug\0628.exe
